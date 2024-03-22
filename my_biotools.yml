@@ -1,0 +1,52 @@
+name: my_biotools
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+dependencies:
+  - atac=2008=py27pl5.22.0_0
+  - blasr=5.3.9c6f0a5=0
+  - blasr_libcpp=1.1=boost1.61_0
+  - boost=1.61.0=py27_1
+  - bzip2=1.0.6=1
+  - ca-certificates=2018.1.18=0
+  - certifi=2018.1.18=py27_0
+  - curl=7.55.1=0
+  - daligner=1.0=0
+  - dazz_db=1.0=0
+  - estmapper=2008=py27pl5.22.0_0
+  - falcon=1.3.0=py27_0
+  - hdf5=1.10.1=1
+  - htslib=1.7=0
+  - icu=56.1=4
+  - jellyfish=2.2.6=0
+  - krb5=1.14.2=0
+  - libgcc=7.2.0=h69d50b8_2
+  - libgcc-ng=7.2.0=h7cc24e2_2
+  - libgfortran=3.0.0=1
+  - libssh2=1.8.0=2
+  - libstdcxx-ng=7.2.0=h7a57d05_2
+  - meryl=2013=0
+  - ncurses=5.9=10
+  - openssl=1.0.2n=0
+  - pbbam=0.1=boost1.64_2
+  - pbdagcon=0.1=boost1.60_0
+  - perl=5.22.0.1=0
+  - pip=9.0.1=py27_1
+  - python=2.7.14=4
+  - python-mimeparse=1.6.0=py27_0
+  - readline=7.0=0
+  - samtools=1.7=1
+  - setuptools=38.5.1=py27_0
+  - sim4db=2008=0
+  - six=1.11.0=py27_1
+  - sqlite=3.20.1=2
+  - tk=8.6.7=0
+  - wgs-assembler=8.3=pl5.22.0_0
+  - wheel=0.30.0=py27_2
+  - xz=5.2.3=0
+  - zlib=1.2.11=0
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/my_biotools
+

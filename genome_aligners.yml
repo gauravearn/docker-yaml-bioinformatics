@@ -1,0 +1,49 @@
+name: genome_aligners
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+dependencies:
+  - bedtools=2.28.0=hdf88d34_0
+  - blasr=5.3.3=h018d624_1
+  - blasr_libcpp=5.3.3=h018d624_1
+  - bowtie=1.2.2=py36h2d50403_1
+  - bowtie2=2.3.4.3=py36he860b03_1
+  - bzip2=1.0.6=h14c3975_1002
+  - ca-certificates=2019.9.11=hecc5488_0
+  - certifi=2019.9.11=py36_0
+  - curl=7.64.1=hf8cf82a_0
+  - fastp=0.20.0=hdbcaa40_0
+  - hdf5=1.10.5=nompi_h3c11f04_1104
+  - htslib=1.9=ha228f0b_6
+  - krb5=1.16.3=h05b26f9_1001
+  - libcurl=7.64.1=hda55be3_0
+  - libdeflate=1.0=h14c3975_1
+  - libedit=3.1.20170329=hf8c457e_1001
+  - libffi=3.2.1=hf484d3e_1005
+  - libgcc-ng=7.3.0=hdf63c60_0
+  - libgfortran=3.0.0=1
+  - libgfortran-ng=7.3.0=hdf63c60_2
+  - libssh2=1.8.2=h22169c7_2
+  - libstdcxx-ng=7.3.0=hdf63c60_0
+  - ncurses=6.1=hf484d3e_1002
+  - openssl=1.1.1c=h516909a_0
+  - pbbam=1.0.6=hc16d5b3_1
+  - pbcopper=1.3.0=h3e4de3e_0
+  - perl=5.26.2=h14c3975_1002
+  - pip=19.0.3=py36_0
+  - python=3.6.7=h381d211_1004
+  - readline=7.0=hf8c457e_1001
+  - samtools=1.9=h8571acd_11
+  - setuptools=40.8.0=py36_0
+  - spades=3.13.1=0
+  - sqlite=3.26.0=h67949de_1001
+  - tbb=2019.4=h6bb024c_0
+  - tk=8.6.9=h84994c4_1000
+  - wheel=0.33.1=py36_0
+  - xz=5.2.4=h14c3975_1001
+  - zlib=1.2.11=h14c3975_1004
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/genome_aligners
+

@@ -1,0 +1,13 @@
+name: igv
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+dependencies:
+  - igv=2.4.9=0
+  - igvtools=2.3.93=0
+  - openjdk=8.0.121=1
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/igv
+

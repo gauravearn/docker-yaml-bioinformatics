@@ -1,0 +1,12 @@
+name: sra
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+dependencies:
+  - libgcc-ng=8.2.0=hdf63c60_1
+  - sra-tools=2.9.1_1=h470a237_0
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/sra
+

@@ -1,0 +1,9 @@
+name: dos2unix
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/dos2unix
+

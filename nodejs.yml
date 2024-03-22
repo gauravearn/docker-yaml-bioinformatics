@@ -1,0 +1,11 @@
+name: nodejs
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+dependencies:
+  - node=0.8.7=0
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/nodejs
+

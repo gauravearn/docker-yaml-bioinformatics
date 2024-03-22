@@ -1,0 +1,9 @@
+name: hic_environment
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/hic_environment
+

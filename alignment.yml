@@ -1,0 +1,15 @@
+name: alignment
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+dependencies:
+  - gblocks=0.91b=1
+  - libgcc=7.2.0=h69d50b8_2
+  - libgcc-ng=7.2.0=hdf63c60_3
+  - libstdcxx-ng=7.2.0=hdf63c60_3
+  - trimal=1.4.1=0
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/alignment
+

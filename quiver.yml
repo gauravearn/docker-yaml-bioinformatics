@@ -1,0 +1,9 @@
+name: quiver
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/quiver
+

@@ -1,0 +1,14 @@
+name: iqtree
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+dependencies:
+  - iqtree=1.6.9=he941832_0
+  - libgcc-ng=7.3.0=hdf63c60_0
+  - libstdcxx-ng=7.3.0=hdf63c60_0
+  - zlib=1.2.11=h14c3975_1004
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/iqtree
+

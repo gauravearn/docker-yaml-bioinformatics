@@ -1,0 +1,21 @@
+name: assemblers
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - jellyfish=2.2.10=h6bb024c_1
+  - jemalloc=4.5.0=0
+  - libgcc=7.2.0=h69d50b8_2
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - ncurses=6.1=hf484d3e_1002
+  - samtools=0.1.19=h94a8ba4_6
+  - soapdenovo2=2.40=1
+  - wtdbg=2.5=h8b12597_0
+  - zlib=1.2.11=h516909a_1006
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/assemblers
+

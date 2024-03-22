@@ -1,0 +1,11 @@
+name: singularity
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+dependencies:
+  - singularity=2.4.2=0
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/singularity
+

@@ -1,0 +1,17 @@
+name: abyss
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+dependencies:
+  - abyss=2.1.4=h02d93b8_0
+  - libgcc-ng=7.2.0=hdf63c60_3
+  - libgfortran=3.0.0=1
+  - libstdcxx-ng=7.2.0=hdf63c60_3
+  - make=4.2.1=h470a237_1002
+  - mpi=1.0=openmpi
+  - openmpi=3.1.2=h26a2512_2
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/abyss
+

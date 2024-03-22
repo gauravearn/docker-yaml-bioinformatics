@@ -1,0 +1,14 @@
+name: pear
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - conda-canary
+dependencies:
+  - bzip2=1.0.6=h14c3975_1002
+  - libgcc-ng=7.3.0=hdf63c60_0
+  - pear=0.9.6=he4cf2ce_4
+  - zlib=1.2.11=h14c3975_1004
+prefix: /wrk/gasablok/DONOTREMOVE/bioconda3_env/pear
+
