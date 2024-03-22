@@ -7,7 +7,7 @@ a suite of the docker yaml bioinformatics that i wrote for the working and you c
 >> genome annotations \
 >>  genome jbrowse and igv containerization 
 
-#### take the yaml file, put in the docker and then ``` docker compose container && ``` docker build ``` 
+#### take the yaml file, put in the docker and then ``` docker compose container && docker build ``` 
 
 Gaurav Sablok \
 Academic Staff Member \
