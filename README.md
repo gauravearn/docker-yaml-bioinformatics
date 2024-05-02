@@ -9,7 +9,7 @@ a suite of the docker yaml bioinformatics that i wrote for the working and you c
 
 #### take the yaml file, put in the docker and then ``` docker compose container && docker build ``` 
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
